@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">solentEatout</string>
+    <string name="convertBtn">convert!</string>
+    <string name="clear">clear</string>
+    <string name="ok">ok</string>
+</resources>
